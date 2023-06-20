@@ -1,0 +1,15 @@
+2023/06/20 12:36:41 Application Started!!!
+2023/06/20 12:36:41 Logging Started!!!
+2023/06/20 12:36:41 Connected to database successfully
+2023/06/20 12:36:42 Successfully unmarshalled data from json and stored in database!!
+2023/06/20 12:36:53 Data is not present in cache so it is fetched from database and stored in cache
+2023/06/20 12:36:53 Successfully fetched all universities from cache
+2023/06/20 12:37:09 Successfully fetched university from database for rank 2 and stored in cache
+2023/06/20 12:37:11 Successfully fetched university from cache for rank 2
+2023/06/20 12:37:17 Successfully fetched university from database for rank 29 and stored in cache
+2023/06/20 12:37:19 Successfully fetched university from cache for rank 29
+2023/06/20 12:37:43 Successfully added university!!
+2023/06/20 12:39:01 Successfully updated university for rank 1
+2023/06/20 12:39:13 Successfully deleted university with rank 1531
+2023/06/20 12:40:00 No record found for rank 1531
+2023/06/20 12:40:04 Successfully fetched university from database for rank 1530 and stored in cache
