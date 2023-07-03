@@ -7,3 +7,6 @@ We want to create a Charging Station Management application,this will provide be
   2.Start Charging
   3.Available Charging Stations and
   4.Occupied Charging Stations along with their availability time.
+
+  #Rest-Cache
+  Using json file containing universities,unmarshalled it and implemented REST API Endpoints.
